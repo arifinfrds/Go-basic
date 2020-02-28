@@ -1,9 +1,9 @@
+// MARK: - Part 3: Variables
+// Reference: https://golangbot.com/variables/
+
 package main
 
 import "fmt"
-
-// MARK: - Part 3: Variables
-// Reference: https://golangbot.com/variables/
 
 func main() {
 	printMyBio()
